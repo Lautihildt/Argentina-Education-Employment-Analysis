@@ -28,7 +28,7 @@ This project investigates the relationship between the number of educational est
 ## 🚀 How to Run
 1. Install dependencies:
    ```bash
-   pip install pandas duckdb matplotlib seaborn openpyxl
+   pip install -r requirements.txt
 2. Run the script:
    ```bash
    python main.py
